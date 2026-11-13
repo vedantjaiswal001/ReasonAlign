@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as follows."
+title: "ReasonAlign: Structured Reasoning Fine-Tuning and Preference Alignment for Small Language Models"
+authors:
+  - family-names: Jaiswal
+    given-names: Vedant
+version: 1.0.0
+date-released: 2026-11-13
+url: "https://github.com/vedantjaiswal001/ReasonAlign"
